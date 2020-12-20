@@ -2,16 +2,11 @@ body
 {
     color: rgba(255, 238, 0, 0.719);
     text-align: center;
-<<<<<<< HEAD
     font-family: cursive;
-=======
-    font-family: "sans-serif";
->>>>>>> cabecera_1
     font-size: 20px;
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
 #container
 {
     width: 70%;
@@ -19,28 +14,4 @@ body
     text-align: center;
     border: 1px rgb(0, 44, 46);
     margin: auto;
-=======
-
-#cabecera
-{
-    background-color: black;
-    color: blanchedalmond;
-    margin: 0;
-    padding: 0.5em;
-}
-
-#container
-{
-    width: 70%;
-    padding: 2em;
-    text-align: left;
-    border: 1px solid rgba(116, 28, 28, 0.63);
-    margin: 0 auto;
-
-}
-
-#container h1
-{
-    font-size: 20px;
->>>>>>> cabecera_1
 }
